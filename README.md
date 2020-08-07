@@ -1,2 +1,2 @@
 # knn-titanic
-Survival Predictions on titanic dataset using Machine Learning Models
+Survival Predictions on titanic dataset using K Nearest Neighbors Machine Learning Model
